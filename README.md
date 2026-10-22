@@ -10,6 +10,7 @@ Are you tired of the tedious process of unsubscribing from YouTube channels one 
 - **No browser extension required**: Just copy, paste, and go.
 - **Safe and manual**: Review each channel before unsubscribing-no risk of accidental mass unsubscribes.
 - **Works with the latest YouTube UI**: Updated for April 2025.
+- **English and Spanish**: Matches “Subscribed” / “Suscrito” and “Unsubscribe” / “Cancelar suscripción”. The confirm button is clicked by its dialog id, so the last step does not depend on an English label.
 
 ---
 
